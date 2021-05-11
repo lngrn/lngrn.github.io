@@ -51,8 +51,8 @@ a:hover {
 }
 
 .wrapper {
-    width: 800px;
-    padding: 10px 70px;
+    width: 80%;
+    /* padding: 10px 70px; */
     margin: 0 auto;
 }
 
